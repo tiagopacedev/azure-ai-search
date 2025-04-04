@@ -32,4 +32,4 @@ O Azure AI Search com dados de reviews pode ser extremamente útil para diferent
 
 ---
 
-Projeto desenvolvido como parte do Bootcamp **Decola Tech Avanade 2024**, pela [DIO](https://www.dio.me).
+Projeto desenvolvido como parte do Bootcamp **Decola Tech Avanade 2025**, pela [DIO](https://www.dio.me).
